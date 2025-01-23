@@ -113,7 +113,9 @@ class CameraActivity : AppCompatActivity() {
         }, ContextCompat.getMainExecutor(this))
     }
 
-
+    /**
+     * Take phone on the button clicked and get the captured image
+     */
     private fun takePhoto() {
         val imageCapture = imageCapture ?: return
 
