@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CaptureIt</string>
+    <string name="camera">Open Camera</string>
+</resources>
